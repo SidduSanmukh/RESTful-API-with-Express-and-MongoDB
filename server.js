@@ -2,7 +2,7 @@ import express from "express";
 import mongoose from "mongoose";
 
 mongoose
-  .connect("Connection string")
+  .connect(".................YOUR CONNECTION STRING....................")
   .then(() => {
     console.log("Database connected!");
   })
