@@ -78,10 +78,3 @@ cd express-mongo-api
 # Contributing:
 ## Feel free to fork the repo and submit issues or pull requests if you find any bugs or want to suggest improvements!
 
-# License:
-## This project is licensed under the MIT License - see the LICENSE file for details.
-
-# Acknowledgements:
-## - Express.js
-## - MongoDB Atlas
-## - Mongoose
